@@ -5,10 +5,10 @@ python, javascript
 
 ### work experience
 Cloud computing
-storing computer softwares
-Big impact projects
+- storing computer softwares
+- Big impact projects
 
 ### projects
-practical projects
-building computer games
+- practical projects
+- building computer games
 
